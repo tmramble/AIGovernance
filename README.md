@@ -38,6 +38,9 @@ Defines accountability across AI lifecycle roles:
 - SOC / Security Operations
 - Legal / Privacy
 - Product Owners
+  
+<img width="869" height="563" alt="image" src="https://github.com/user-attachments/assets/32b4d21f-be55-4a38-b202-2c3c736cf71a" />
+
 
 ---
 
@@ -48,6 +51,8 @@ Maps internal controls to governance frameworks such as:
 - Compliance status tracking
 - Evidence artifacts
 
+<img width="831" height="539" alt="image" src="https://github.com/user-attachments/assets/7c529621-202b-4464-bd7b-a28f52ce9002" />
+
 ---
 
 ### ⚖️ Bias & Fairness Monitoring
@@ -55,6 +60,8 @@ Maps internal controls to governance frameworks such as:
 - Toxicity / risk scoring visualization
 - Threshold-based risk indicators
 - Governance decision recommendations
+  
+<img width="862" height="580" alt="image" src="https://github.com/user-attachments/assets/5ad8ba7e-e9b8-4f24-ad65-05b4d69df66e" />
 
 ---
 
