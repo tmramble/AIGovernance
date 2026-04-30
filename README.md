@@ -5,6 +5,8 @@ Audit Scenario: Evaluating Q4 Governance Maturity for Customer Support LLM ecosy
 
 # 🛡️ AI Governance & Compliance Dashboard (Prototype)
 
+[AI Governance Dashboard](https://gitlab.com/your-username/your-repo-name)
+
 ## 📌 Overview
 
 This project is a **simulated AI Governance and Compliance Dashboard** designed to demonstrate how enterprise organizations can operationalize AI risk management, accountability, and fairness monitoring in a single interface.
